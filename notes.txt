@@ -1,0 +1,14 @@
+So We have the header area plus 12347 lines of hexadecimal or 16 bytes per line. 
+2 bytes or one hexadecimal group is a single sample.
+This means we have a 16-bit per sample precision but that may not be needed
+Maximum amplitude: 0.157349
+Minimum amplitude: -0.110443
+Midline amplitude: 0.023453
+Mean norm: 0.034500
+Mean amplitude: 0.029567
+RMS amplitude: 0.041125
+Maximum delta: 0.064484
+Minimum delta: 0.000000
+Mean delta: 0.009759
+
+We can see the mean delta indicates 
